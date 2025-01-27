@@ -13,8 +13,8 @@ Welcome to my repository of LeetCode solutions! Here, you'll find all the soluti
 
 | Language | Number of Solutions |
 |----------|---------------------|
-| Python   | 100+                |
-| C++      | 50+                 |
+| Python   |                     |
+| C++      |                     |
 
 ## 🔍 How to Use This Repository
 
