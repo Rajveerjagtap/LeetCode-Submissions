@@ -1,20 +1,13 @@
 # 🌟 LeetCode Submissions 🌟
 
-Welcome to my repository of LeetCode solutions! Here, you'll find all the solutions I've submitted, primarily in Python and C++. This repository serves as a resource for anyone looking for help with LeetCode problems or seeking to improve their coding skills.
+Welcome to my repository of LeetCode solutions! Here, you'll find all my Python solutions for various LeetCode problems. This repository serves as a resource for anyone looking to improve their problem-solving skills and coding proficiency.
 
-![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
+![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg#gh-dark-mode-only)
+![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png#gh-light-mode-only)
 
 ## 📂 Repository Structure
 
 - **Python Solutions**: Located in the `python/` directory.
-- **C++ Solutions**: Located in the `cpp/` directory.
-
-## 📈 Progress Tracker
-
-| Language | Number of Solutions |
-|----------|---------------------|
-| Python   |                     |
-| C++      |                     |
 
 ## 🔍 How to Use This Repository
 
@@ -24,10 +17,9 @@ Welcome to my repository of LeetCode solutions! Here, you'll find all the soluti
     cd LeetCode-Submissions
     ```
 
-2. **Navigate to the desired language directory**:
+2. **Navigate to the solutions directory**:
     ```bash
-    cd python    # for Python solutions
-    cd cpp       # for C++ solutions
+    cd python
     ```
 
 3. **Browse through the solutions**:
@@ -36,17 +28,20 @@ Welcome to my repository of LeetCode solutions! Here, you'll find all the soluti
 ## 🛠️ Technologies Used
 
 - **Python**: For algorithmic solutions and scripting.
-- **C++**: For high-performance solutions.
+
+## 🛠️ Tech Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ## 📚 Additional Resources
 
 - [LeetCode Discuss](https://leetcode.com/discuss/)
 - [Python Documentation](https://docs.python.org/3/)
-- [C++ Documentation](https://en.cppreference.com/w/)
 
 ## 🎯 Goal
 
-This repository aims to provide a comprehensive collection of solutions to LeetCode problems. Feel free to explore and contribute!
+This repository aims to provide a comprehensive collection of Python solutions to LeetCode problems. Feel free to explore and contribute!
 
 ![Coding Image](https://miro.medium.com/max/1400/1*ZSVmWGcc1u0t0H6WX99zbg.gif)
 
@@ -71,3 +66,4 @@ Special thanks to [LeetCode](https://leetcode.com/) for providing such a great p
 ---
 
 ✨ **Happy Coding!** ✨
+
