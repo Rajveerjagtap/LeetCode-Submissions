@@ -3,7 +3,6 @@
 Welcome to my repository of **LeetCode solutions**! 🚀 Here, you'll find all my **Python** solutions for various LeetCode problems. This repository serves as a resource for anyone looking to **enhance their problem-solving skills** and **master coding**.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode Logo" width="150"#gh-dark-mode-only>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="150"#gh-light-mode-only>
 </p>
 
